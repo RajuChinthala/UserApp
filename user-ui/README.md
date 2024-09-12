@@ -10,5 +10,5 @@ npm i react-router-dom
 > Terminal
 npm i concurrently --save-dev
 
-package.json
+# package.json
 "start": "concurrently \"json-server db.json --watch --port 3001\" \"react-scripts start\""
